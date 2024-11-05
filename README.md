@@ -18,7 +18,8 @@ So far, I've worked the most with embedded programming, signal processing and co
 [![Verilog](https://img.shields.io/badge/Verilog-acb2c0?style=for-the-badge)](https://)
 ![VHDL](https://img.shields.io/badge/VHDL-acb2c0?style=for-the-badge&color=acb2c0)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 🛠️ Tools: 
@@ -30,14 +31,80 @@ So far, I've worked the most with embedded programming, signal processing and co
 ![Quartus](https://img.shields.io/badge/Quartus-Prime?style=for-the-badge&labelColor=%23294C6A&color=%231C4795)
 
 ## 📕 Some of the projects I'm proud of
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<!-- <p align="left">
-    <a href="https://github.com/Lab-de-microprocesadores-G1/tpf-mp3-player"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lab-de-microprocesadores-G1&repo=tpf-mp3-player&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-    <a href="https://github.com/gonzadavidov/food-recognition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gonzadavidov&repo=food-recognition&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-    <a href="https://github.com/gonzadavidov/LoRaWAN-Gateway"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gonzadavidov&repo=LoRaWAN-Gateway&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-    <a href="https://github.com/asp-image-dsp/cyclops"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asp-image-dsp&repo=cyclops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-    <a href="https://github.com/gonzadavidov/Catan"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gonzadavidov&repo=Catan&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
-</p> -->
+
+### Embedded Devices:
+
+<p align="left">
+    <a href="https://github.com/GianMusca/c-frdmk64-security-system">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=c-frdmk64-security-system&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/c-frdmk64-mp3-player">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=c-frdmk64-mp3-player&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/fpga-ev22-multi-stage-processor">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=fpga-ev22-multi-stage-processor&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/fpga-car-beacon-system">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=fpga-car-beacon-system&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/fpga-home-alarm-system">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=fpga-home-alarm-system&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/c-frdmk64-peripheral-driver">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=c-frdmk64-peripheral-driver&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+</p>
+
+### Data Struture & Algorithms:
+
+<p align="left">
+    <a href="https://github.com/GianMusca/cpp-blockchain-implementation">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=cpp-blockchain-implementation&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/cpp-trenzalore-ray-tracer">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=cpp-trenzalore-ray-tracer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/cpp-twitter-api-client">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=cpp-twitter-api-client&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/cpp-json-validation-tool">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=cpp-json-validation-tool&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/cpp-quad-tree-image-compressor">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=cpp-quad-tree-image-compressor&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/cpp-worm-battle-simulator">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=cpp-worm-battle-simulator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+</p>
+
+### Control & Automation:
+
+<p align="left">
+    <a href="https://github.com/GianMusca/plc-ice-cream-factory-automation">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=plc-ice-cream-factory-automation&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/matlab-robot-arm-vision-control">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=matlab-robot-arm-vision-control&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/matlab-robotics-control-system">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=matlab-robotics-control-system&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/matlab-vision-robotics">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=matlab-vision-robotics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+</p>
+
+### Circuit Design:
+
+<p align="left">
+    <a href="https://github.com/GianMusca/flyback-converter-design">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=flyback-converter-design&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/GianMusca/boost-converter-design">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GianMusca&repo=boost-converter-design&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+</p>
 
 ## 💻 GitHub Profile Stats
 \
